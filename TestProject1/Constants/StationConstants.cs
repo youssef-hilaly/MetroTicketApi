@@ -30,21 +30,21 @@ namespace TestProject1.Constants
         public const string KIT_KAT = "Kit-Kat";
 
         //Line 1
-        public static int DISTANCE_HELWAN_MAADI = 10;
-        public static int DISTANCE_HELWAN_NEW_MARG = 34;
+        public const int DISTANCE_HELWAN_MAADI = 10;
+        public const int DISTANCE_HELWAN_NEW_MARG = 34;
 
         // Line 2
-        public static int DISTANCE_SHUBRA_AL_KHAIMAH_ROD_EL_FARAG = 5;
-        public static int DISTANCE_SHUBRA_AL_KHAIMAH_EL_MONIB = 19;
+        public const int DISTANCE_SHUBRA_AL_KHAIMAH_ROD_EL_FARAG = 5;
+        public const int DISTANCE_SHUBRA_AL_KHAIMAH_EL_MONIB = 19;
 
         // Line 3
-        public static int DISTANCE_ADLY_MANSOUR_ALF_MASKEN = 7;
-        public static int DISTANCE_ADLY_MANSOUR_ROD_EL_FARAG_CORRIDOR = 28;
+        public const int DISTANCE_ADLY_MANSOUR_ALF_MASKEN = 7;
+        public const int DISTANCE_ADLY_MANSOUR_ROD_EL_FARAG_CORRIDOR = 28;
 
         //Line Intersection
-        public static int DISTANCE_SAADZAGHLOUL_EL_GEISH = 5;
-        public static int DISTANCE_OPERA_ORABI = 3;
-        public static int DISTANCE_ElMonib_KIT_KAT = 10;
+        public const int DISTANCE_SAADZAGHLOUL_EL_GEISH = 5;
+        public const int DISTANCE_OPERA_ORABI = 3;
+        public const int DISTANCE_ElMonib_KIT_KAT = 10;
 
     }
 }

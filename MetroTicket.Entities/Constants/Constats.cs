@@ -11,6 +11,10 @@ namespace MetroTicket.Entities.Constants
         public const int STATIONS_COUNT = 35;
         public const int START_STATION = 1;
 
+        public const int MINIMUM_DISTANCE = 1;
+        public const int ZERO_DISTANCE = 0;
+        public const int NEGATIVE_DISTANCE = -1;
+
         public const int FIRST_TICKET_PRICE = 8;
         public const int SECOND_TICKET_PRICE = 10;
         public const int THIRD_TICKET_PRICE = 15;
